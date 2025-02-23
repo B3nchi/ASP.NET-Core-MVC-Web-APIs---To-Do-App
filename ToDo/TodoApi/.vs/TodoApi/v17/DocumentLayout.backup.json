@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\logic\\todologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\logic\\todologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\controller\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controller\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\logic\\todologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\logic\\todologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|c:\\users\\user\\desktop\\programming files\\asp\\todo\\todoapi\\todoapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF12B667-3B09-4302-A943-42B7EAD72A1C}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,20 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Program.cs",
-              "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwB8AAAADAAAAAAAAAA==",
+              "Title": "TodoLogic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Logic\\TodoLogic.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Logic\\TodoLogic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Logic\\TodoLogic.cs",
+              "RelativeToolTip": "TodoApi\\Logic\\TodoLogic.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T12:50:23.849Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-02-23T12:44:04.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Controller\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controller\\TodoController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Controller\\TodoController.cs",
+              "RelativeToolTip": "TodoApi\\Controller\\TodoController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:43:10.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TodoApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:42:45.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TodoDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\DTOs\\TodoDto.cs",
               "RelativeDocumentMoniker": "TodoApi\\DTOs\\TodoDto.cs",
@@ -56,46 +77,7 @@
               "RelativeToolTip": "TodoApi\\DTOs\\TodoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:00:55.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TodoController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Controller\\TodoController.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Controller\\TodoController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Controller\\TodoController.cs",
-              "RelativeToolTip": "TodoApi\\Controller\\TodoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:48:38.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TodoLogic.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Logic\\TodoLogic.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Logic\\TodoLogic.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Logic\\TodoLogic.cs",
-              "RelativeToolTip": "TodoApi\\Logic\\TodoLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:32:56.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ToDo\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
-              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:11:00.77Z",
+              "WhenOpened": "2025-02-23T12:42:19.285Z",
               "EditorCaption": ""
             }
           ]

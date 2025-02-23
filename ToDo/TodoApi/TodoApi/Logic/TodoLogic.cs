@@ -30,11 +30,11 @@ namespace TodoApi.Logic
             await _context.SaveChangesAsync();
             return todo;
         }
-        
+
         public async Task<bool> UpdateTodoAsync(Guid id, TodoItem updatedTodo)
         {
             var existingTodo = await _context.Todos.FindAsync(id);
-            if (existingTodo != null)
+            if (existingTodo == null) 
             {
                 return false;
             }
@@ -42,22 +42,24 @@ namespace TodoApi.Logic
             existingTodo.Title = updatedTodo.Title;
             existingTodo.Completed = updatedTodo.Completed;
 
-            await _context.SaveChangesAsync();
-            return true;    
+            await _context.SaveChangesAsync(); 
+            return true;
         }
+
 
         public async Task<bool> DeleteTodoAsync(Guid id)
         {
             var todo = await _context.Todos.FindAsync(id);
-            if (todo != null)
+            if (todo == null) 
             {
                 return false;
             }
 
             _context.Todos.Remove(todo);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync(); 
             return true;
         }
+
 
     }
 }

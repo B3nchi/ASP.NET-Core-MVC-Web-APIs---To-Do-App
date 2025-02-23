@@ -13,6 +13,8 @@ namespace TodoApi.Models
 
         public bool Completed { get; set; } = false;
 
+        public bool IsDeleted { get; set; } = false;
+
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     }
 }

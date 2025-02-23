@@ -218,6 +218,9 @@
           "completed": {
             "type": "boolean"
           },
+          "isDeleted": {
+            "type": "boolean"
+          },
           "createdAt": {
             "type": "string",
             "format": "date-time"
